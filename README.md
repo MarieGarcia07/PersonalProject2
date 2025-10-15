@@ -16,6 +16,24 @@ The project is composed of the following major classes:
 
 #### Player
 
+The ```Player``` class has the following responsibilities:
+
+* 
+
+* 
+
 #### Follower
 
+The ```Follower``` class has the following responsibilities:
+
+*
+
+*
+
 #### Camera Follow
+
+The ```Camera Follow``` class has the following responsibilities:
+
+*
+
+*
