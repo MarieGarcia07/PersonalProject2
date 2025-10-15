@@ -14,8 +14,8 @@ __Game Project that is inspired by [Little Nightmares] (https://en.bandainamcoen
 
 The project is composed of the following major classes:
 
-### Player
+#### Player
 
 #### Follower
 
-##### Camera Follow
+#### Camera Follow
